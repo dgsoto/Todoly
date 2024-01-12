@@ -1,0 +1,8 @@
+api_base_url: "https://api.todoly.com"
+
+host: https://todo.ly
+rootPath: /api
+token: {"Authorization" : "Basic ZGdzb3RvcWF0ZXN0aW5nQGdtYWlsLmNvbTpkZ3MxOTg3dG9kb2x5"}
+
+tokentoupdate: {"Authorization" : "Basic ZGVsZXRlQGphbGFzb2Z0LmNvbToxMjM0NTY="}
+tokentodelete: {"Authorization" : "Basic bWFyY2VAamFsYTEyMy5jb206QVlCWjEyMw=="}
